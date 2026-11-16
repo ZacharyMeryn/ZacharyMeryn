@@ -11,7 +11,7 @@ and a continuum robot for minimally invasive colonoscopy procedures.
 fuzzy logic control, control theory, nonlinear control, kinematics  
 
 **Selected work**
-- Interval Type-2 Fuzzy Logic control for Cable-Driven Parallel Robots  
+- Interval Type-2 Fuzzy Logic control of Cable-Driven Parallel Robots  
   (book chapter, in review, Studies in Fuzziness and Soft Computing series)  
 - Reconfigurable Enhanced Spike-Event Neuromorphic Detection of Quasi-DC Signals in Noisy Environments (IEEE, co-author)
 
